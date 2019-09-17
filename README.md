@@ -1,6 +1,7 @@
 # spline
  
-run main
-adjust points and slopes
+1. adjust points and slopes
 
-test weights in Spline.java
+2. adjust weights in Spline.java
+
+3. run
